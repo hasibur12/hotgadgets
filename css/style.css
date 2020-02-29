@@ -7,18 +7,7 @@
     background-color: rgba(220, 220, 220, 0.062);
     border-radius: 10px;
 }
-.subscribe-button{
-    background-image: linear-gradient(to bottom, orange 0%, #FF136F 100%);
-    color:whitesmoke;
-    border: none;
-    margin-top: 8px;
-    border-radius: 8px;
-    padding: 9px 25px;
-    cursor: pointer;
-}
-#subscribe{
-    height: 300px;
-}
+
 #subscribe h6{
     color: gray;
 }
